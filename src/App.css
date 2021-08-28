@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.contenedor {
+  text-align: center;
+}
+
+.inputLabel {
+  margin-right: 20px;
+}
